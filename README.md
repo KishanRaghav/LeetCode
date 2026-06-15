@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KishanRaghav/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -30,9 +31,14 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
