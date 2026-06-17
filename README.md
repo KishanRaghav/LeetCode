@@ -34,10 +34,12 @@
 | [0050-powx-n](https://github.com/KishanRaghav/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/KishanRaghav/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
