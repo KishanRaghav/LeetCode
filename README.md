@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KishanRaghav/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [1672-richest-customer-wealth](https://github.com/KishanRaghav/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/KishanRaghav/LeetCode/tree/master/0796-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
