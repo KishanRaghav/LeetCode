@@ -43,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/KishanRaghav/LeetCode/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KishanRaghav/LeetCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/KishanRaghav/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
