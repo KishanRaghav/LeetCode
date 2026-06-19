@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KishanRaghav/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [1672-richest-customer-wealth](https://github.com/KishanRaghav/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
