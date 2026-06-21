@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [1672-richest-customer-wealth](https://github.com/KishanRaghav/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
+| [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
