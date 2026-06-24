@@ -29,6 +29,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/KishanRaghav/LeetCode/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KishanRaghav/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/KishanRaghav/LeetCode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/KishanRaghav/LeetCode/tree/master/0796-rotate-string) |
