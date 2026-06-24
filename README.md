@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KishanRaghav/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/KishanRaghav/LeetCode/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
@@ -19,11 +20,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/KishanRaghav/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KishanRaghav/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
