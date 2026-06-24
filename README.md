@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/KishanRaghav/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/KishanRaghav/LeetCode/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KishanRaghav/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/KishanRaghav/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
 | ------- |
