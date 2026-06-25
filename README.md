@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/KishanRaghav/LeetCode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/KishanRaghav/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
