@@ -49,6 +49,7 @@
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1175-prime-arrangements](https://github.com/KishanRaghav/LeetCode/tree/master/1175-prime-arrangements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KishanRaghav/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Recursion
 |  |
