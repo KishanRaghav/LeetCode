@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KishanRaghav/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/KishanRaghav/LeetCode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/KishanRaghav/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
@@ -111,6 +112,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KishanRaghav/LeetCode/tree/master/0055-jump-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -135,6 +137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KishanRaghav/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/KishanRaghav/LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
