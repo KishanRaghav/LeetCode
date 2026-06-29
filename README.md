@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KishanRaghav/LeetCode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/KishanRaghav/LeetCode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KishanRaghav/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -142,4 +143,8 @@
 | [0055-jump-game](https://github.com/KishanRaghav/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/KishanRaghav/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KishanRaghav/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
