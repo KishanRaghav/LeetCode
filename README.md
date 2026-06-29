@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KishanRaghav/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KishanRaghav/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/KishanRaghav/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KishanRaghav/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KishanRaghav/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Interactive
 |  |
