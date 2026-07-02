@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/KishanRaghav/LeetCode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KishanRaghav/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/KishanRaghav/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -93,6 +94,7 @@
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KishanRaghav/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
+| [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
