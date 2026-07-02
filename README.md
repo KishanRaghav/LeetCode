@@ -55,6 +55,7 @@
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/KishanRaghav/LeetCode/tree/master/1175-prime-arrangements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KishanRaghav/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Recursion
@@ -149,8 +150,17 @@
 | [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KishanRaghav/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KishanRaghav/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KishanRaghav/LeetCode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
