@@ -1,7 +1,9 @@
 class Solution {
     public void sortColors(int[] nums) {
-        Arrays.sort(nums);
-        // int n=nums.length;
+       // Arrays.sort(nums);
+
+       //Bubble sort
+        int n=nums.length;
         //  for (int i = 0; i < n - 1; i++) {
         //     for (int j = 0; j < n - i - 1; j++) {
         //         if (nums[j] > nums[j + 1]) {
@@ -11,5 +13,18 @@ class Solution {
         //         }
         //     }
         // }
+
+        //selection sort
+          for (int i = 0; i < n - 1; i++) {
+            int minIndex = i;
+            for (int j = i + 1; j < n; j++) {
+                if (nums[j] < nums[minIndex]) {
+                    minIndex = j;
+                }
+            }
+            int temp = nums[i];
+            nums[i] = nums[minIndex];
+            nums[minIndex] = temp;
+        }
     }
 }
