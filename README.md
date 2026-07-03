@@ -76,6 +76,7 @@
 | [0012-integer-to-roman](https://github.com/KishanRaghav/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/KishanRaghav/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KishanRaghav/LeetCode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/KishanRaghav/LeetCode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KishanRaghav/LeetCode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KishanRaghav/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/KishanRaghav/LeetCode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KishanRaghav/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
