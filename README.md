@@ -40,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/KishanRaghav/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/KishanRaghav/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
@@ -79,6 +80,7 @@
 | [0071-simplify-path](https://github.com/KishanRaghav/LeetCode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KishanRaghav/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/KishanRaghav/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/KishanRaghav/LeetCode/tree/master/0796-rotate-string) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/KishanRaghav/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -185,4 +188,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KishanRaghav/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
