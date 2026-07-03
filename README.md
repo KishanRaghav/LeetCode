@@ -38,6 +38,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/KishanRaghav/LeetCode/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -53,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/KishanRaghav/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/KishanRaghav/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/KishanRaghav/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
@@ -155,6 +157,7 @@
 | [0118-pascals-triangle](https://github.com/KishanRaghav/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KishanRaghav/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KishanRaghav/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 ## Interactive
 |  |
@@ -176,4 +179,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KishanRaghav/LeetCode/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
