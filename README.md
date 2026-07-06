@@ -15,6 +15,7 @@
 | [0164-maximum-gap](https://github.com/KishanRaghav/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/KishanRaghav/LeetCode/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +103,7 @@
 | [0164-maximum-gap](https://github.com/KishanRaghav/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/KishanRaghav/LeetCode/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KishanRaghav/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/KishanRaghav/LeetCode/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/KishanRaghav/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
