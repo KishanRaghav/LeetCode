@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KishanRaghav/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KishanRaghav/LeetCode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/KishanRaghav/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -158,6 +159,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KishanRaghav/LeetCode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/KishanRaghav/LeetCode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
