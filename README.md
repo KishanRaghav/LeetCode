@@ -23,6 +23,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/KishanRaghav/LeetCode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KishanRaghav/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KishanRaghav/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KishanRaghav/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -167,6 +168,7 @@
 | [0278-first-bad-version](https://github.com/KishanRaghav/LeetCode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KishanRaghav/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KishanRaghav/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/KishanRaghav/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
