@@ -26,6 +26,7 @@
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KishanRaghav/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/KishanRaghav/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/KishanRaghav/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -166,6 +167,7 @@
 | [0278-first-bad-version](https://github.com/KishanRaghav/LeetCode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KishanRaghav/LeetCode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/KishanRaghav/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
