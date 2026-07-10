@@ -26,6 +26,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/KishanRaghav/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KishanRaghav/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KishanRaghav/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/KishanRaghav/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/KishanRaghav/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KishanRaghav/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KishanRaghav/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KishanRaghav/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
