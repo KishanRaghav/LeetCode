@@ -27,6 +27,7 @@
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/KishanRaghav/LeetCode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/KishanRaghav/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KishanRaghav/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/KishanRaghav/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -56,6 +57,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/KishanRaghav/LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -120,6 +122,7 @@
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/KishanRaghav/LeetCode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/KishanRaghav/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
