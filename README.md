@@ -70,6 +70,7 @@
 | [0002-add-two-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/KishanRaghav/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/KishanRaghav/LeetCode/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/KishanRaghav/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/KishanRaghav/LeetCode/tree/master/0326-power-of-three) |
@@ -130,6 +131,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/KishanRaghav/LeetCode/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
@@ -229,4 +231,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KishanRaghav/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/KishanRaghav/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
