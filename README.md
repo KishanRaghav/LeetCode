@@ -235,4 +235,8 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/KishanRaghav/LeetCode/tree/master/0089-gray-code) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/KishanRaghav/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
