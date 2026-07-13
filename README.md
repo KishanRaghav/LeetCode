@@ -48,6 +48,7 @@
 | [0001-two-sum](https://github.com/KishanRaghav/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/KishanRaghav/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/KishanRaghav/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KishanRaghav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KishanRaghav/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KishanRaghav/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KishanRaghav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KishanRaghav/LeetCode/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KishanRaghav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
