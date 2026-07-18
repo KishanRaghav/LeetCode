@@ -152,6 +152,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KishanRaghav/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/KishanRaghav/LeetCode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/KishanRaghav/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KishanRaghav/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -263,4 +264,16 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KishanRaghav/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KishanRaghav/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KishanRaghav/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KishanRaghav/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KishanRaghav/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
