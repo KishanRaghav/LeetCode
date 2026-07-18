@@ -35,6 +35,7 @@
 | [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KishanRaghav/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
@@ -85,6 +86,7 @@
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/KishanRaghav/LeetCode/tree/master/1175-prime-arrangements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KishanRaghav/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KishanRaghav/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KishanRaghav/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KishanRaghav/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -257,6 +259,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KishanRaghav/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KishanRaghav/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
