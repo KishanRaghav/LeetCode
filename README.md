@@ -90,6 +90,7 @@
 | [1175-prime-arrangements](https://github.com/KishanRaghav/LeetCode/tree/master/1175-prime-arrangements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KishanRaghav/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/KishanRaghav/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/KishanRaghav/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KishanRaghav/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KishanRaghav/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/KishanRaghav/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KishanRaghav/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KishanRaghav/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
