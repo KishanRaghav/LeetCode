@@ -94,6 +94,7 @@
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/KishanRaghav/LeetCode/tree/master/1175-prime-arrangements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KishanRaghav/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/KishanRaghav/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/KishanRaghav/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/KishanRaghav/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -126,6 +127,7 @@
 | [0796-rotate-string](https://github.com/KishanRaghav/LeetCode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KishanRaghav/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/KishanRaghav/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KishanRaghav/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/KishanRaghav/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
