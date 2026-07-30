@@ -98,6 +98,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/KishanRaghav/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/KishanRaghav/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KishanRaghav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KishanRaghav/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KishanRaghav/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KishanRaghav/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -131,6 +132,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KishanRaghav/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/KishanRaghav/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KishanRaghav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KishanRaghav/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -199,6 +201,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/KishanRaghav/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/KishanRaghav/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KishanRaghav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
