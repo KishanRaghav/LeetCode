@@ -70,6 +70,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KishanRaghav/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/KishanRaghav/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -133,6 +134,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/KishanRaghav/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KishanRaghav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KishanRaghav/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KishanRaghav/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -159,6 +161,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KishanRaghav/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KishanRaghav/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KishanRaghav/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
@@ -202,6 +205,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/KishanRaghav/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/KishanRaghav/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KishanRaghav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KishanRaghav/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -213,6 +217,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/KishanRaghav/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KishanRaghav/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KishanRaghav/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3866-first-unique-even-element](https://github.com/KishanRaghav/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Binary Search
