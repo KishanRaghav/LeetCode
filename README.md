@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/KishanRaghav/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/KishanRaghav/LeetCode/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/KishanRaghav/LeetCode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KishanRaghav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@
 | [0326-power-of-three](https://github.com/KishanRaghav/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/KishanRaghav/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
@@ -113,6 +115,7 @@
 | [0326-power-of-three](https://github.com/KishanRaghav/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KishanRaghav/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/KishanRaghav/LeetCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/KishanRaghav/LeetCode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -247,6 +250,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KishanRaghav/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KishanRaghav/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0486-predict-the-winner](https://github.com/KishanRaghav/LeetCode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 ## Interactive
 |  |
@@ -259,6 +263,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/KishanRaghav/LeetCode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 ## Bucket Sort
 |  |
