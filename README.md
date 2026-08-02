@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/KishanRaghav/LeetCode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KishanRaghav/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KishanRaghav/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/KishanRaghav/LeetCode/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/KishanRaghav/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/KishanRaghav/LeetCode/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/KishanRaghav/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -95,6 +96,7 @@
 | [0486-predict-the-winner](https://github.com/KishanRaghav/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/KishanRaghav/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/KishanRaghav/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/KishanRaghav/LeetCode/tree/master/1175-prime-arrangements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KishanRaghav/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -254,6 +256,7 @@
 | [0152-maximum-product-subarray](https://github.com/KishanRaghav/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/KishanRaghav/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/KishanRaghav/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KishanRaghav/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 ## Interactive
 |  |
@@ -267,6 +270,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KishanRaghav/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KishanRaghav/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/KishanRaghav/LeetCode/tree/master/1025-divisor-game) |
 ## Bucket Sort
 |  |
