@@ -104,6 +104,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/KishanRaghav/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/KishanRaghav/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2485-find-the-pivot-integer](https://github.com/KishanRaghav/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/KishanRaghav/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/KishanRaghav/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KishanRaghav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -207,6 +208,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KishanRaghav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KishanRaghav/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/KishanRaghav/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/KishanRaghav/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
