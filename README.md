@@ -45,6 +45,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KishanRaghav/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KishanRaghav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KishanRaghav/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/KishanRaghav/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -79,6 +80,7 @@
 | [1496-path-crossing](https://github.com/KishanRaghav/LeetCode/tree/master/1496-path-crossing) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KishanRaghav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KishanRaghav/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/KishanRaghav/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -179,6 +181,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KishanRaghav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KishanRaghav/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KishanRaghav/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KishanRaghav/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
