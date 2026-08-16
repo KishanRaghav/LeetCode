@@ -44,6 +44,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KishanRaghav/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KishanRaghav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/KishanRaghav/LeetCode/tree/master/2032-two-out-of-three) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KishanRaghav/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KishanRaghav/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -82,6 +83,7 @@
 | [1496-path-crossing](https://github.com/KishanRaghav/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KishanRaghav/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/KishanRaghav/LeetCode/tree/master/2032-two-out-of-three) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KishanRaghav/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KishanRaghav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/KishanRaghav/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KishanRaghav/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KishanRaghav/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -186,6 +189,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KishanRaghav/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KishanRaghav/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KishanRaghav/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/KishanRaghav/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KishanRaghav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
