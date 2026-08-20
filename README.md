@@ -49,6 +49,7 @@
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KishanRaghav/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KishanRaghav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KishanRaghav/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KishanRaghav/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KishanRaghav/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/KishanRaghav/LeetCode/tree/master/3731-find-missing-elements) |
@@ -173,6 +174,7 @@
 | [0412-fizz-buzz](https://github.com/KishanRaghav/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/KishanRaghav/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KishanRaghav/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KishanRaghav/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KishanRaghav/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
