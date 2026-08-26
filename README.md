@@ -169,6 +169,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KishanRaghav/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/KishanRaghav/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2418-sort-the-people](https://github.com/KishanRaghav/LeetCode/tree/master/2418-sort-the-people) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KishanRaghav/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KishanRaghav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KishanRaghav/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KishanRaghav/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KishanRaghav/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KishanRaghav/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KishanRaghav/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
